@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Draft Your Team</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body style="background-color: #87c58788;">
+  <nav class="top-nav">
+    <ul>
+        <li><a href="leaderboard.html"><span class="material-icons">sports_golf</span> Home</a></li>
+        <li><a href="draft.html"><span class="material-icons">edit_note</span> Draft</a></li>
+        <li><a href="teams.html"><i class="fa-solid fa-poo"></i> Teams</a></li>
+        <li><a href="rules.html"><span class="material-icons">gavel</span> Rules</a></li>
+    </ul>
+  </nav>
+  <div class="container">
+    <h1>Draft Your Team</h1>
+    <form id="draftForm">
+      <div class="form-group">
+        <label for="teamName">Team Name:</label>
+        <input type="text" id="teamName" name="teamName" required>
+      </div>
+      
+      <div class="form-group">
+        <label for="groupAPlayer1">Group A Player 1:</label>
+        <select id="groupAPlayer1" name="groupAPlayer1"></select>
+      </div>
+      <div class="form-group">
+        <label for="groupAPlayer2">Group A Player 2:</label>
+        <select id="groupAPlayer2" name="groupAPlayer2"></select>
+      </div>
+
+      <div class="form-group">
+        <label for="groupBPlayer1">Group B Player 1:</label>
+        <select id="groupBPlayer1" name="groupBPlayer1"></select>
+      </div>
+      <div class="form-group">
+        <label for="groupBPlayer2">Group B Player 2:</label>
+        <select id="groupBPlayer2" name="groupBPlayer2"></select>
+      </div>
+
+      <div class="form-group">
+        <label for="groupCPlayer1">Group C Player 1:</label>
+        <select id="groupCPlayer1" name="groupCPlayer1"></select>
+      </div>
+      <div class="form-group">
+        <label for="groupCPlayer2">Group C Player 2:</label>
+        <select id="groupCPlayer2" name="groupCPlayer2"></select>
+      </div>
+
+      <div class="form-group">
+        <label for="groupDPlayer1">Group D Player 1:</label>
+        <select id="groupDPlayer1" name="groupDPlayer1"></select>
+      </div>
+      <div class="form-group">
+        <label for="groupDPlayer2">Group D Player 2:</label>
+        <select id="groupDPlayer2" name="groupDPlayer2"></select>
+      </div>
+
+      <div class="form-group">
+        <label for="groupEPlayer1">Group E Player 1:</label>
+        <select id="groupEPlayer1" name="groupEPlayer1"></select>
+      </div>
+
+      <div class="form-group">
+        <label for="groupFPlayer1">Group F Player 1:</label>
+        <select id="groupFPlayer1" name="groupFPlayer1"></select>
+      </div>
+
+      <div class="form-group">
+        <label for="winnersScoreToPar">Winner's Score to Par:</label>
+        <input type="text" id="winnersScoreToPar" name="winnersScoreToPar" required>
+      </div>
+
+      <button id="submit-button" type="submit" class="submit-button">Submit Draft</button>
+    </form>
+
+    <p> Please request any changes directly to Chris</p>
+
+      </div>
+    </div>
+  </div>
+  <script src="draft.js"></script>
+</body>
+</html>

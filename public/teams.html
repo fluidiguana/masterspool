@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Teams</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body style="background-color: #ffffff88;">
+  <nav class="top-nav">
+    <ul>
+        <li><a href="leaderboard.html"><span class="material-icons">sports_golf</span> Home</a></li>
+        <li><a href="draft.html"><span class="material-icons">edit_note</span> Draft</a></li>
+        <li><a href="teams.html"><i class="fa-solid fa-poo"></i> Teams</a></li>
+        <li><a href="rules.html"><span class="material-icons">gavel</span> Rules</a></li>
+    </ul>
+  </nav>
+  <section id="teams">
+    <h1>All teams in the pool are listed here</h1>
+    <div class="leaderboard-container">
+        <table>
+            <thead>
+                <tr>
+                    <th class="bold-column">Team</th>
+                    <th>Group A1</th>
+                    <th>Group A2</th>
+                    <th>Group B1</th>
+                    <th>Group B2</th>
+                    <th>Group C1</th>
+                    <th>Group C2</th>
+                    <th>Group D1</th>
+                    <th>Group D2</th>
+                    <th>Group E1</th>
+                    <th>Group F1</th>
+                </tr>
+            </thead>
+            <tbody id="teamsTableBody">
+            </tbody>
+        </table>
+    </div>
+  </section>
+  <script src="teams.js"></script>
+  <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+</body>
+</html>

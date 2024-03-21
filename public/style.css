@@ -1,0 +1,212 @@
+body {
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    -webkit-overflow-scrolling: touch;
+    padding-top: 65px;
+}
+
+header {
+    width: 100%;
+    background-color: #f2f2f2;
+    text-align: right;
+    padding: 10px 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; /* Removes gaps between cells */
+    margin-top: 20px;
+    max-width: 100%;
+    table-layout: auto; /* Allows table cells to adjust their width */
+}
+
+table, th, td {
+    border: 1px solid #ddd; /* Adds a light border around cells */
+}
+
+th {
+    background-color: #4CAF50; /* A green background for headers */
+    color: white;
+    padding: 10px;
+    text-align: left;
+    word-wrap: break-word; /* Allows long words to be broken and wrapped to the next line */
+    max-width: 200px; /* Example max-width, adjust as needed */
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    word-wrap: break-word; /* Allows long words to be broken and wrapped to the next line */
+    max-width: 200px; /* Example max-width, adjust as needed */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Zebra-striping for rows */
+}
+
+tbody tr:hover {
+    background-color: #ddd; /* Highlight on hover */
+}
+
+.rules {
+    width: 80%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    text-align: left;
+}
+
+nav {
+    background-color: #008000; /* Change to your preferred nav bar color */
+    overflow: hidden;
+    position: fixed; /* Fix the navbar to the top */
+    width: 100%;
+    top: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Use flexbox for horizontal alignment */
+    justify-content: space-around; /* Evenly space out nav items */
+    align-items: center; /* Center items vertically */
+    min-height: 50px; /* Or adjust to your preferred height */
+}
+
+nav ul li a {
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-transform: uppercase; /* Optional: makes text uppercase */
+    font-weight: bold; /* Optional: makes text bold */
+}
+
+nav ul li a img {
+    margin-right: 8px; /* Space between icon and text */
+}
+
+/* Add hover effect for links */
+nav ul li a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Clearfix if you're floating any elements */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.container {
+width: 80%;
+max-width: 600px;
+margin: 0 auto;
+padding: 20px;
+background-color: white;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+border-radius: 8px;
+margin-top: 40px;
+}
+
+h1 {
+text-align: center;
+color: #028A0F; /* Dark green color */
+}
+
+h3 {
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.form-group {
+margin-bottom: 15px;
+}
+
+label {
+display: block;
+margin-bottom: 5px;
+}
+
+input[type="text"], select {
+width: 100%;
+padding: 10px;
+border: 1px solid #ddd;
+border-radius: 4px;
+}
+
+.submit-button {
+background-color: #028A0F; /* Dark green color */
+color: white;
+padding: 10px 15px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+width: 100%;
+font-size: 16px;
+}
+
+.submit-button:hover {
+background-color: #026f07;
+}
+
+.bold-column {
+    font-weight: bold;
+}
+
+/* Landing Page */
+.fullscreen-image {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    z-index: 1 ;
+}
+
+.fullscreen-image::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3); /* Black overlay with 30% opacity */
+}
+
+.fullscreen-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.overlay-text {
+    position: absolute;
+    bottom: 21%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    z-index: 2;
+}
+
+.landing-page-title {
+    color: rgb(222, 235, 217);
+}
+
+.button-group {
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: white;
+    background-color: #87c58788;
+    text-decoration: none;
+}
