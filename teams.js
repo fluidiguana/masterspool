@@ -1,31 +1,30 @@
-document.addEventListener('DOMContentLoaded', function() {
-    const teamsTableBody = document.getElementById('teamsTableBody');
-  
-    function fetchTeams() {
-      fetch('http://localhost:3001/api/teams')
-        .then(response => response.json())
-        .then(data => {
-          teamsTableBody.innerHTML = ''; // Clear existing rows
-          data.forEach(team => {
-            const row = document.createElement('tr');
-            row.innerHTML = `
-              <td class ="bold-column">${team.TeamName}</td>
-              <td>${team.Player1}</td>
-              <td>${team.Player2}</td>
-              <td>${team.Player3}</td>
-              <td>${team.Player4}</td>
-              <td>${team.Player5}</td>
-              <td>${team.Player6}</td>
-              <td>${team.Player7}</td>
-              <td>${team.Player8}</td>
-              <td>${team.Player9}</td>
-              <td>${team.Player10}</td>
-            `;
-            teamsTableBody.appendChild(row);
-          });
-        })
-        .catch(error => console.error('Error:', error));
-    }
-    
-    fetchTeams(); // Fetch teams when the page loads
-  });
+function fetchTeams() {
+  const documentId = '13UdzO_PF24UcxXdVJGseIzhfsB9HkMO9mp8aT7c-pR4';
+  fetch(`https://spreadsheets.google.com/feeds/cells/${documentId}/1/public/full?alt=json`)
+    .then(response => response.json())
+    .then(data => {
+      teamsTableBody.innerHTML = ''; // Clear existing rows
+
+      // The actual data starts at the 8th entry in the feed.entry array
+      const teams = data.feed.entry.slice(7);
+
+      teams.forEach(team => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+          <td class ="bold-column">${team.Teams$team.$t}</td>
+          <td>${team.Teams$Player1.$t}</td>
+          <td>${team.Teams$Player2.$t}</td>
+          <td>${team.Teams$Player3.$t}</td>
+          <td>${team.Teams$Player4.$t}</td>
+          <td>${team.Teams$Player5.$t}</td>
+          <td>${team.Teams$Player6.$t}</td>
+          <td>${team.Teams$Player7.$t}</td>
+          <td>${team.Teams$Player8.$t}</td>
+          <td>${team.Teams$Player9.$t}</td>
+          <td>${team.Teams$Player10.$t}</td>
+        `;
+        teamsTableBody.appendChild(row);
+      });
+    })
+    .catch(error => console.error('Error:', error));
+}
