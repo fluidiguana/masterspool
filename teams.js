@@ -6,7 +6,7 @@ function fetchTeams() {
       teamsTableBody.innerHTML = ''; // Clear existing rows
 
       // The actual data starts at the 8th entry in the feed.entry array
-      const teams = data.feed.entry.slice(7);
+      const teams = data.feed.entry.slice(1);
 
       teams.forEach(team => {
         const row = document.createElement('tr');
