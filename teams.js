@@ -1,5 +1,5 @@
 function fetchTeams() {
-  const documentId = '13UdzO_PF24UcxXdVJGseIzhfsB9HkMO9mp8aT7c-pR4';
+  const documentId = '2PACX-1vTdEdeCu-lXdlVu0Z4VHHlpb094arTOFhCVpeANpxdA9PHf6LcAQ-awuBr72rey7hNMslAWiVoxXh4c';
   fetch(`https://spreadsheets.google.com/feeds/cells/${documentId}/1/public/full?alt=json`)
     .then(response => response.json())
     .then(data => {
