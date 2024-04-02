@@ -100,11 +100,11 @@ fetch('leaderboard.json')
   .then((data) => {
     // Parse numeric fields back to numbers
     data.forEach(row => {
-      row.r1 = parseFloat(row.r1);
-      row.r2 = parseFloat(row.r2);
-      row.r3 = parseFloat(row.r3);
-      row.r4 = parseFloat(row.r4);
-      row.overall = parseFloat(row.overall);
+      row.p_r1 = parseFloat(row.p_r1);
+      row.p_r2 = parseFloat(row.p_r2);
+      row.p_r3 = parseFloat(row.p_r3);
+      row.p_r4 = parseFloat(row.p_r4);
+      row.score = parseFloat(row.score);
     });
 
     return data;  // Add this line
