@@ -95,6 +95,17 @@ gridApi = agGrid.createGrid(document.querySelector('#myGrid'), gridOptions);
 
 // Fetch Remote Data
 // Old: fetch('http://localhost:3001/api/leaderboard')
-fetch('leaderboard_int.json')
+fetch('leaderboard.json')
   .then((response) => response.json())
-  .then((data) => gridApi.setGridOption('rowData', data));
+  .then((data) => {
+    // Parse numeric fields back to numbers
+    data.forEach(row => {
+      row.r1 = parseFloat(row.r1);
+      row.r2 = parseFloat(row.r2);
+      row.r3 = parseFloat(row.r3);
+      row.r4 = parseFloat(row.r4);
+      row.overall = parseFloat(row.overall);
+    });
+
+    gridOptions.api.setRowData(data);
+  });
