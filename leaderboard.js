@@ -102,34 +102,10 @@ fetch('leaderboard.json')
     // Parse numeric fields back to numbers
     data.forEach(row => {
       row.p_r1 = Number(row.p_r1);
-      if (isNaN(row.p_r1)) {
-        console.error(`Invalid number for p_r1: ${row.p_r1}`);
-        row.p_r1 = 1;  // or some default value
-      }
-
       row.p_r2 = Number(row.p_r2);
-      if (isNaN(row.p_r2)) {
-        console.error(`Invalid number for p_r2: ${row.p_r2}`);
-        row.p_r2 = 2;  // or some default value
-      }
-
       row.p_r3 = Number(row.p_r3);
-      if (isNaN(row.p_r3)) {
-        console.error(`Invalid number for p_r3: ${row.p_r3}`);
-        row.p_r3 = 3;  // or some default value
-      }
-
       row.p_r4 = Number(row.p_r4);
-      if (isNaN(row.p_r4)) {
-        console.error(`Invalid number for p_r4: ${row.p_r4}`);
-        row.p_r4 = 4;  // or some default value
-      }
-
       row.score = Number(row.score);
-      if (isNaN(row.score)) {
-        console.error(`Invalid number for score: ${row.score}`);
-        row.score = 5;  // or some default value
-      }
     });
 
     return data;
