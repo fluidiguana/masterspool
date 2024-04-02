@@ -107,5 +107,5 @@ fetch('leaderboard.json')
       row.overall = parseFloat(row.overall);
     });
 
-    gridOptions.api.setRowData(data);
+  .then((data) => gridApi.setGridOption('rowData', data));
   });
