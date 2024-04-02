@@ -98,6 +98,7 @@ gridApi = agGrid.createGrid(document.querySelector('#myGrid'), gridOptions);
 fetch('leaderboard.json')
   .then((response) => response.json())
   .then((data) => {
+    console.log(data);
     // Parse numeric fields back to numbers
     data.forEach(row => {
       row.p_r1 = Number(row.p_r1);
@@ -134,3 +135,4 @@ fetch('leaderboard.json')
     return data;
   })
   .then((data) => gridApi.setGridOption('rowData', data));
+  console.log(gridOptions.api.getRowData());
