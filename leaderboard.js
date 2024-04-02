@@ -111,4 +111,3 @@ fetch('leaderboard.json')
     return data;
   })
   .then((data) => gridApi.setGridOption('rowData', data));
-  console.log(gridOptions.api.getRowData());
