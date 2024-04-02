@@ -134,7 +134,3 @@ fetch('leaderboard.json')
     return data;
   })
   .then((data) => gridApi.setGridOption('rowData', data));
-
-    return data;  // Add this line
-  })
-  .then((data) => gridApi.setGridOption('rowData', data));
