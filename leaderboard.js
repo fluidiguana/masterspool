@@ -95,6 +95,6 @@ gridApi = agGrid.createGrid(document.querySelector('#myGrid'), gridOptions);
 
 // Fetch Remote Data
 // Old: fetch('http://localhost:3001/api/leaderboard')
-fetch('leaderboard.json')
+fetch('leaderboard_int.json')
   .then((response) => response.json())
   .then((data) => gridApi.setGridOption('rowData', data));
