@@ -59,7 +59,7 @@ const gridOptions = {
       headerName: 'Overall',
       width: 120,
       aggFunc: sumOfLowestFour,
-      sort: 'desc',
+      sort: 'asc',
     },
   ],
 
