@@ -18,6 +18,10 @@ const gridOptions = {
   rowData: [],
   // Columns to be displayed (Should match rowData properties)
   suppressAggFuncInHeader: true,
+  pagination: false,
+  statusBar: {
+        statusPanels: []
+    },
   columnDefs: [
     {
       field: 'TeamName',
