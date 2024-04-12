@@ -79,6 +79,7 @@ const gridOptions = {
   defaultColDef: {
     filter: true,
     editable: true,
+    sortable: true,
   },
   // Grid Options & Callbacks
   pagination: true,
