@@ -1,9 +1,9 @@
 [
   {
     "TeamName": "Frazier Sucks at Golf",
-    "PlayerName": "Sam Burns",
-    "r1": 8,
-    "r2": 1,
+    "PlayerName": "Peter Malnati",
+    "r1": 10,
+    "r2": 0,
     "r3": 99,
     "r4": 99,
     "overall": 99
@@ -14,53 +14,8 @@
     "r1": -2,
     "r2": 1,
     "r3": 0,
-    "r4": 0,
-    "overall": -1
-  },
-  {
-    "TeamName": "Frazier Sucks at Golf",
-    "PlayerName": "Chris Kirk",
-    "r1": 2,
-    "r2": 3,
-    "r3": -4,
-    "r4": 0,
-    "overall": 1
-  },
-  {
-    "TeamName": "Frazier Sucks at Golf",
-    "PlayerName": "Matt Fitzpatrick",
-    "r1": -1,
-    "r2": 1,
-    "r3": 1,
-    "r4": 0,
-    "overall": 1
-  },
-  {
-    "TeamName": "Frazier Sucks at Golf",
-    "PlayerName": "Bubba Watson",
-    "r1": 2,
-    "r2": 8,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Frazier Sucks at Golf",
-    "PlayerName": "Jon Rahm",
-    "r1": 1,
-    "r2": 4,
-    "r3": 0,
-    "r4": -2,
-    "overall": 3
-  },
-  {
-    "TeamName": "Frazier Sucks at Golf",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
-    "r3": -1,
-    "r4": 0,
-    "overall": -7
+    "r4": 1,
+    "overall": 0
   },
   {
     "TeamName": "Frazier Sucks at Golf",
@@ -68,14 +23,23 @@
     "r1": -7,
     "r2": 1,
     "r3": 3,
-    "r4": 0,
-    "overall": -3
+    "r4": 1,
+    "overall": -2
   },
   {
     "TeamName": "Frazier Sucks at Golf",
-    "PlayerName": "Peter Malnati",
-    "r1": 10,
-    "r2": 0,
+    "PlayerName": "Chris Kirk",
+    "r1": 2,
+    "r2": 3,
+    "r3": -4,
+    "r4": 1,
+    "overall": 2
+  },
+  {
+    "TeamName": "Frazier Sucks at Golf",
+    "PlayerName": "Sam Burns",
+    "r1": 8,
+    "r2": 1,
     "r3": 99,
     "r4": 99,
     "overall": 99
@@ -90,67 +54,40 @@
     "overall": 7
   },
   {
-    "TeamName": "Gradone The Elder",
+    "TeamName": "Frazier Sucks at Golf",
+    "PlayerName": "Bubba Watson",
+    "r1": 2,
+    "r2": 8,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Frazier Sucks at Golf",
+    "PlayerName": "Matt Fitzpatrick",
+    "r1": -1,
+    "r2": 1,
+    "r3": 1,
+    "r4": 2,
+    "overall": 3
+  },
+  {
+    "TeamName": "Frazier Sucks at Golf",
+    "PlayerName": "Jon Rahm",
+    "r1": 1,
+    "r2": 4,
+    "r3": 0,
+    "r4": 2,
+    "overall": 7
+  },
+  {
+    "TeamName": "Frazier Sucks at Golf",
     "PlayerName": "Scottie Scheffler",
     "r1": -6,
     "r2": 0,
     "r3": -1,
     "r4": 0,
     "overall": -7
-  },
-  {
-    "TeamName": "Gradone The Elder",
-    "PlayerName": "Xander Schauffele",
-    "r1": 0,
-    "r2": 0,
-    "r3": -2,
-    "r4": 0,
-    "overall": -2
-  },
-  {
-    "TeamName": "Gradone The Elder",
-    "PlayerName": "Matthieu Pavon",
-    "r1": -2,
-    "r2": 1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 1
-  },
-  {
-    "TeamName": "Gradone The Elder",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 7
-  },
-  {
-    "TeamName": "Gradone The Elder",
-    "PlayerName": "Wyndham Clark",
-    "r1": 1,
-    "r2": 6,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Gradone The Elder",
-    "PlayerName": "Max Homa",
-    "r1": -5,
-    "r2": -1,
-    "r3": 1,
-    "r4": 0,
-    "overall": -5
-  },
-  {
-    "TeamName": "Gradone The Elder",
-    "PlayerName": "Adam Schenk",
-    "r1": 1,
-    "r2": -1,
-    "r3": 0,
-    "r4": 1,
-    "overall": 1
   },
   {
     "TeamName": "Gradone The Elder",
@@ -172,6 +109,15 @@
   },
   {
     "TeamName": "Gradone The Elder",
+    "PlayerName": "Adam Schenk",
+    "r1": 1,
+    "r2": -1,
+    "r3": 0,
+    "r4": 0,
+    "overall": 0
+  },
+  {
+    "TeamName": "Gradone The Elder",
     "PlayerName": "Viktor Hovland",
     "r1": -1,
     "r2": 9,
@@ -180,16 +126,16 @@
     "overall": 99
   },
   {
-    "TeamName": "Jen",
-    "PlayerName": "Si Woo Kim",
-    "r1": 2,
-    "r2": 4,
-    "r3": 1,
+    "TeamName": "Gradone The Elder",
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
+    "r3": 2,
     "r4": -3,
     "overall": 4
   },
   {
-    "TeamName": "Jen",
+    "TeamName": "Gradone The Elder",
     "PlayerName": "Scottie Scheffler",
     "r1": -6,
     "r2": 0,
@@ -198,31 +144,40 @@
     "overall": -7
   },
   {
-    "TeamName": "Jen",
-    "PlayerName": "Bubba Watson",
-    "r1": 2,
-    "r2": 8,
+    "TeamName": "Gradone The Elder",
+    "PlayerName": "Xander Schauffele",
+    "r1": 0,
+    "r2": 0,
+    "r3": -2,
+    "r4": -1,
+    "overall": -3
+  },
+  {
+    "TeamName": "Gradone The Elder",
+    "PlayerName": "Max Homa",
+    "r1": -5,
+    "r2": -1,
+    "r3": 1,
+    "r4": -1,
+    "overall": -6
+  },
+  {
+    "TeamName": "Gradone The Elder",
+    "PlayerName": "Wyndham Clark",
+    "r1": 1,
+    "r2": 6,
     "r3": 99,
     "r4": 99,
     "overall": 99
   },
   {
-    "TeamName": "Jen",
-    "PlayerName": "Will Zalatoris",
+    "TeamName": "Gradone The Elder",
+    "PlayerName": "Matthieu Pavon",
     "r1": -2,
-    "r2": 5,
-    "r3": 0,
+    "r2": 1,
+    "r3": 2,
     "r4": -1,
-    "overall": 2
-  },
-  {
-    "TeamName": "Jen",
-    "PlayerName": "Max Homa",
-    "r1": -5,
-    "r2": -1,
-    "r3": 1,
-    "r4": 0,
-    "overall": -5
+    "overall": 0
   },
   {
     "TeamName": "Jen",
@@ -239,8 +194,26 @@
     "r1": 0,
     "r2": 0,
     "r3": -2,
+    "r4": -1,
+    "overall": -3
+  },
+  {
+    "TeamName": "Jen",
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
+    "r2": 0,
+    "r3": -1,
     "r4": 0,
-    "overall": -2
+    "overall": -7
+  },
+  {
+    "TeamName": "Jen",
+    "PlayerName": "Will Zalatoris",
+    "r1": -2,
+    "r2": 5,
+    "r3": 0,
+    "r4": -2,
+    "overall": 1
   },
   {
     "TeamName": "Jen",
@@ -253,6 +226,24 @@
   },
   {
     "TeamName": "Jen",
+    "PlayerName": "Si Woo Kim",
+    "r1": 2,
+    "r2": 4,
+    "r3": 1,
+    "r4": -2,
+    "overall": 5
+  },
+  {
+    "TeamName": "Jen",
+    "PlayerName": "Tony Finau",
+    "r1": -1,
+    "r2": 6,
+    "r3": 0,
+    "r4": 6,
+    "overall": 11
+  },
+  {
+    "TeamName": "Jen",
     "PlayerName": "Zach Johnson",
     "r1": 4,
     "r2": 3,
@@ -262,12 +253,39 @@
   },
   {
     "TeamName": "Jen",
-    "PlayerName": "Tony Finau",
-    "r1": -1,
-    "r2": 6,
+    "PlayerName": "Max Homa",
+    "r1": -5,
+    "r2": -1,
+    "r3": 1,
+    "r4": -1,
+    "overall": -6
+  },
+  {
+    "TeamName": "Jen",
+    "PlayerName": "Bubba Watson",
+    "r1": 2,
+    "r2": 8,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "JUICE DADDYS™️",
+    "PlayerName": "Jason Day",
+    "r1": 3,
+    "r2": 1,
+    "r3": 4,
+    "r4": -3,
+    "overall": 5
+  },
+  {
+    "TeamName": "JUICE DADDYS™️",
+    "PlayerName": "Will Zalatoris",
+    "r1": -2,
+    "r2": 5,
     "r3": 0,
-    "r4": 1,
-    "overall": 6
+    "r4": -2,
+    "overall": 1
   },
   {
     "TeamName": "JUICE DADDYS™️",
@@ -277,51 +295,6 @@
     "r3": -1,
     "r4": 0,
     "overall": -7
-  },
-  {
-    "TeamName": "JUICE DADDYS™️",
-    "PlayerName": "Bryson DeChambeau",
-    "r1": -7,
-    "r2": 1,
-    "r3": 3,
-    "r4": 0,
-    "overall": -3
-  },
-  {
-    "TeamName": "JUICE DADDYS™️",
-    "PlayerName": "Will Zalatoris",
-    "r1": -2,
-    "r2": 5,
-    "r3": 0,
-    "r4": -1,
-    "overall": 2
-  },
-  {
-    "TeamName": "JUICE DADDYS™️",
-    "PlayerName": "Lee Hodges",
-    "r1": 2,
-    "r2": 5,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "JUICE DADDYS™️",
-    "PlayerName": "Denny McCarthy",
-    "r1": 2,
-    "r2": 2,
-    "r3": 7,
-    "r4": -3,
-    "overall": 8
-  },
-  {
-    "TeamName": "JUICE DADDYS™️",
-    "PlayerName": "Jason Day",
-    "r1": 3,
-    "r2": 1,
-    "r3": 4,
-    "r4": -1,
-    "overall": 7
   },
   {
     "TeamName": "JUICE DADDYS™️",
@@ -334,6 +307,15 @@
   },
   {
     "TeamName": "JUICE DADDYS™️",
+    "PlayerName": "Hideki Matsuyama",
+    "r1": 4,
+    "r2": 2,
+    "r3": -1,
+    "r4": 1,
+    "overall": 6
+  },
+  {
+    "TeamName": "JUICE DADDYS™️",
     "PlayerName": "Phil Mickelson",
     "r1": 1,
     "r2": 3,
@@ -343,12 +325,12 @@
   },
   {
     "TeamName": "JUICE DADDYS™️",
-    "PlayerName": "Hideki Matsuyama",
-    "r1": 4,
-    "r2": 2,
-    "r3": -1,
-    "r4": 1,
-    "overall": 6
+    "PlayerName": "Lee Hodges",
+    "r1": 2,
+    "r2": 5,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
   },
   {
     "TeamName": "JUICE DADDYS™️",
@@ -360,40 +342,22 @@
     "overall": 99
   },
   {
-    "TeamName": "ChrisFitz",
-    "PlayerName": "Xander Schauffele",
-    "r1": 0,
-    "r2": 0,
-    "r3": -2,
-    "r4": 0,
+    "TeamName": "JUICE DADDYS™️",
+    "PlayerName": "Bryson DeChambeau",
+    "r1": -7,
+    "r2": 1,
+    "r3": 3,
+    "r4": 1,
     "overall": -2
   },
   {
-    "TeamName": "ChrisFitz",
-    "PlayerName": "Russell Henley",
-    "r1": 1,
-    "r2": 5,
-    "r3": 2,
-    "r4": -1,
-    "overall": 7
-  },
-  {
-    "TeamName": "ChrisFitz",
-    "PlayerName": "Nick Taylor",
-    "r1": 5,
-    "r2": 9,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "ChrisFitz",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
-    "r3": -1,
-    "r4": 0,
-    "overall": -7
+    "TeamName": "JUICE DADDYS™️",
+    "PlayerName": "Denny McCarthy",
+    "r1": 2,
+    "r2": 2,
+    "r3": 7,
+    "r4": -2,
+    "overall": 9
   },
   {
     "TeamName": "ChrisFitz",
@@ -401,35 +365,17 @@
     "r1": 6,
     "r2": -1,
     "r3": 2,
-    "r4": 0,
-    "overall": 7
+    "r4": -3,
+    "overall": 4
   },
   {
     "TeamName": "ChrisFitz",
-    "PlayerName": "Max Homa",
-    "r1": -5,
-    "r2": -1,
-    "r3": 1,
-    "r4": 0,
-    "overall": -5
-  },
-  {
-    "TeamName": "ChrisFitz",
-    "PlayerName": "Viktor Hovland",
-    "r1": -1,
-    "r2": 9,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "ChrisFitz",
-    "PlayerName": "Adam Schenk",
-    "r1": 1,
-    "r2": -1,
-    "r3": 0,
-    "r4": 1,
-    "overall": 1
+    "PlayerName": "Denny McCarthy",
+    "r1": 2,
+    "r2": 2,
+    "r3": 7,
+    "r4": -2,
+    "overall": 9
   },
   {
     "TeamName": "ChrisFitz",
@@ -442,42 +388,6 @@
   },
   {
     "TeamName": "ChrisFitz",
-    "PlayerName": "Denny McCarthy",
-    "r1": 2,
-    "r2": 2,
-    "r3": 7,
-    "r4": -3,
-    "overall": 8
-  },
-  {
-    "TeamName": "Who Dey",
-    "PlayerName": "Nicolai Højgaard",
-    "r1": -5,
-    "r2": 1,
-    "r3": 2,
-    "r4": 0,
-    "overall": -2
-  },
-  {
-    "TeamName": "Who Dey",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
-    "r2": 1,
-    "r3": 4,
-    "r4": -1,
-    "overall": 5
-  },
-  {
-    "TeamName": "Who Dey",
-    "PlayerName": "Taylor Moore",
-    "r1": -1,
-    "r2": 3,
-    "r3": 3,
-    "r4": 0,
-    "overall": 5
-  },
-  {
-    "TeamName": "Who Dey",
     "PlayerName": "Scottie Scheffler",
     "r1": -6,
     "r2": 0,
@@ -486,7 +396,34 @@
     "overall": -7
   },
   {
-    "TeamName": "Who Dey",
+    "TeamName": "ChrisFitz",
+    "PlayerName": "Nick Taylor",
+    "r1": 5,
+    "r2": 9,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "ChrisFitz",
+    "PlayerName": "Adam Schenk",
+    "r1": 1,
+    "r2": -1,
+    "r3": 0,
+    "r4": 0,
+    "overall": 0
+  },
+  {
+    "TeamName": "ChrisFitz",
+    "PlayerName": "Max Homa",
+    "r1": -5,
+    "r2": -1,
+    "r3": 1,
+    "r4": -1,
+    "overall": -6
+  },
+  {
+    "TeamName": "ChrisFitz",
     "PlayerName": "Viktor Hovland",
     "r1": -1,
     "r2": 9,
@@ -495,22 +432,22 @@
     "overall": 99
   },
   {
-    "TeamName": "Who Dey",
-    "PlayerName": "Wyndham Clark",
-    "r1": 1,
-    "r2": 6,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
+    "TeamName": "ChrisFitz",
+    "PlayerName": "Xander Schauffele",
+    "r1": 0,
+    "r2": 0,
+    "r3": -2,
+    "r4": -1,
+    "overall": -3
   },
   {
-    "TeamName": "Who Dey",
-    "PlayerName": "Sungjae Im",
-    "r1": 5,
-    "r2": 2,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
+    "TeamName": "ChrisFitz",
+    "PlayerName": "Russell Henley",
+    "r1": 1,
+    "r2": 5,
+    "r3": 2,
+    "r4": -1,
+    "overall": 7
   },
   {
     "TeamName": "Who Dey",
@@ -523,6 +460,33 @@
   },
   {
     "TeamName": "Who Dey",
+    "PlayerName": "Phil Mickelson",
+    "r1": 1,
+    "r2": 3,
+    "r3": 2,
+    "r4": 2,
+    "overall": 8
+  },
+  {
+    "TeamName": "Who Dey",
+    "PlayerName": "Sungjae Im",
+    "r1": 5,
+    "r2": 2,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Who Dey",
+    "PlayerName": "Brooks Koepka",
+    "r1": 1,
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "Who Dey",
     "PlayerName": "Grayson Murray",
     "r1": 4,
     "r2": 2,
@@ -532,51 +496,33 @@
   },
   {
     "TeamName": "Who Dey",
-    "PlayerName": "Phil Mickelson",
-    "r1": 1,
-    "r2": 3,
-    "r3": 2,
-    "r4": 2,
-    "overall": 8
-  },
-  {
-    "TeamName": "Dechambeuner ",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
-    "r2": 1,
-    "r3": 4,
-    "r4": -1,
-    "overall": 5
-  },
-  {
-    "TeamName": "Dechambeuner ",
-    "PlayerName": "Phil Mickelson",
-    "r1": 1,
-    "r2": 3,
-    "r3": 2,
-    "r4": 2,
-    "overall": 8
-  },
-  {
-    "TeamName": "Dechambeuner ",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 7
-  },
-  {
-    "TeamName": "Dechambeuner ",
-    "PlayerName": "Zach Johnson",
-    "r1": 4,
-    "r2": 3,
+    "PlayerName": "Viktor Hovland",
+    "r1": -1,
+    "r2": 9,
     "r3": 99,
     "r4": 99,
     "overall": 99
   },
   {
-    "TeamName": "Dechambeuner ",
+    "TeamName": "Who Dey",
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
+    "r2": 0,
+    "r3": -1,
+    "r4": 0,
+    "overall": -7
+  },
+  {
+    "TeamName": "Who Dey",
+    "PlayerName": "Nicolai Højgaard",
+    "r1": -5,
+    "r2": 1,
+    "r3": 2,
+    "r4": 1,
+    "overall": -1
+  },
+  {
+    "TeamName": "Who Dey",
     "PlayerName": "Wyndham Clark",
     "r1": 1,
     "r2": 6,
@@ -585,22 +531,13 @@
     "overall": 99
   },
   {
-    "TeamName": "Dechambeuner ",
-    "PlayerName": "Luke List",
-    "r1": 3,
+    "TeamName": "Who Dey",
+    "PlayerName": "Taylor Moore",
+    "r1": -1,
     "r2": 3,
-    "r3": -1,
-    "r4": 1,
-    "overall": 6
-  },
-  {
-    "TeamName": "Dechambeuner ",
-    "PlayerName": "Max Homa",
-    "r1": -5,
-    "r2": -1,
-    "r3": 1,
-    "r4": 0,
-    "overall": -5
+    "r3": 3,
+    "r4": -2,
+    "overall": 3
   },
   {
     "TeamName": "Dechambeuner ",
@@ -622,6 +559,87 @@
   },
   {
     "TeamName": "Dechambeuner ",
+    "PlayerName": "Luke List",
+    "r1": 3,
+    "r2": 3,
+    "r3": -1,
+    "r4": 0,
+    "overall": 5
+  },
+  {
+    "TeamName": "Dechambeuner ",
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
+    "r2": 0,
+    "r3": -1,
+    "r4": 0,
+    "overall": -7
+  },
+  {
+    "TeamName": "Dechambeuner ",
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
+    "r3": 2,
+    "r4": -3,
+    "overall": 4
+  },
+  {
+    "TeamName": "Dechambeuner ",
+    "PlayerName": "Phil Mickelson",
+    "r1": 1,
+    "r2": 3,
+    "r3": 2,
+    "r4": 2,
+    "overall": 8
+  },
+  {
+    "TeamName": "Dechambeuner ",
+    "PlayerName": "Brooks Koepka",
+    "r1": 1,
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "Dechambeuner ",
+    "PlayerName": "Zach Johnson",
+    "r1": 4,
+    "r2": 3,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Dechambeuner ",
+    "PlayerName": "Max Homa",
+    "r1": -5,
+    "r2": -1,
+    "r3": 1,
+    "r4": -1,
+    "overall": -6
+  },
+  {
+    "TeamName": "Dechambeuner ",
+    "PlayerName": "Wyndham Clark",
+    "r1": 1,
+    "r2": 6,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Derek",
+    "PlayerName": "Justin Rose",
+    "r1": 1,
+    "r2": 6,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Derek",
     "PlayerName": "Scottie Scheffler",
     "r1": -6,
     "r2": 0,
@@ -635,17 +653,26 @@
     "r1": 1,
     "r2": -3,
     "r3": -2,
-    "r4": 0,
-    "overall": -4
+    "r4": -1,
+    "overall": -5
   },
   {
     "TeamName": "Derek",
-    "PlayerName": "Denny McCarthy",
+    "PlayerName": "Peter Malnati",
+    "r1": 10,
+    "r2": 0,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Derek",
+    "PlayerName": "Sahith Theegala",
     "r1": 2,
     "r2": 2,
-    "r3": 7,
-    "r4": -3,
-    "overall": 8
+    "r3": 2,
+    "r4": 1,
+    "overall": 7
   },
   {
     "TeamName": "Derek",
@@ -662,53 +689,8 @@
     "r1": -1,
     "r2": 1,
     "r3": 0,
-    "r4": 0,
-    "overall": 0
-  },
-  {
-    "TeamName": "Derek",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
-    "r3": -1,
-    "r4": 0,
-    "overall": -7
-  },
-  {
-    "TeamName": "Derek",
-    "PlayerName": "Justin Rose",
-    "r1": 1,
-    "r2": 6,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Derek",
-    "PlayerName": "Peter Malnati",
-    "r1": 10,
-    "r2": 0,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Derek",
-    "PlayerName": "Rory McIlroy",
-    "r1": -1,
-    "r2": 5,
-    "r3": -1,
-    "r4": 1,
-    "overall": 4
-  },
-  {
-    "TeamName": "Derek",
-    "PlayerName": "Sahith Theegala",
-    "r1": 2,
-    "r2": 2,
-    "r3": 2,
-    "r4": 0,
-    "overall": 6
+    "r4": -1,
+    "overall": -1
   },
   {
     "TeamName": "Derek",
@@ -716,8 +698,26 @@
     "r1": -2,
     "r2": 5,
     "r3": 0,
-    "r4": -1,
-    "overall": 2
+    "r4": -2,
+    "overall": 1
+  },
+  {
+    "TeamName": "Derek",
+    "PlayerName": "Denny McCarthy",
+    "r1": 2,
+    "r2": 2,
+    "r3": 7,
+    "r4": -2,
+    "overall": 9
+  },
+  {
+    "TeamName": "Derek",
+    "PlayerName": "Rory McIlroy",
+    "r1": -1,
+    "r2": 5,
+    "r3": -1,
+    "r4": 0,
+    "overall": 3
   },
   {
     "TeamName": "Wood",
@@ -730,12 +730,21 @@
   },
   {
     "TeamName": "Wood",
+    "PlayerName": "Will Zalatoris",
+    "r1": -2,
+    "r2": 5,
+    "r3": 0,
+    "r4": -2,
+    "overall": 1
+  },
+  {
+    "TeamName": "Wood",
     "PlayerName": "Keegan Bradley",
     "r1": 6,
     "r2": -1,
     "r3": 2,
-    "r4": 0,
-    "overall": 7
+    "r4": -3,
+    "overall": 4
   },
   {
     "TeamName": "Wood",
@@ -743,8 +752,44 @@
     "r1": 0,
     "r2": 0,
     "r3": -2,
+    "r4": -1,
+    "overall": -3
+  },
+  {
+    "TeamName": "Wood",
+    "PlayerName": "Max Homa",
+    "r1": -5,
+    "r2": -1,
+    "r3": 1,
+    "r4": -1,
+    "overall": -6
+  },
+  {
+    "TeamName": "Wood",
+    "PlayerName": "Denny McCarthy",
+    "r1": 2,
+    "r2": 2,
+    "r3": 7,
+    "r4": -2,
+    "overall": 9
+  },
+  {
+    "TeamName": "Wood",
+    "PlayerName": "Brooks Koepka",
+    "r1": 1,
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "Wood",
+    "PlayerName": "Adam Schenk",
+    "r1": 1,
+    "r2": -1,
+    "r3": 0,
     "r4": 0,
-    "overall": -2
+    "overall": 0
   },
   {
     "TeamName": "Wood",
@@ -756,58 +801,22 @@
     "overall": 99
   },
   {
-    "TeamName": "Wood",
-    "PlayerName": "Max Homa",
-    "r1": -5,
-    "r2": -1,
-    "r3": 1,
-    "r4": 0,
-    "overall": -5
-  },
-  {
-    "TeamName": "Wood",
-    "PlayerName": "Denny McCarthy",
-    "r1": 2,
-    "r2": 2,
-    "r3": 7,
-    "r4": -3,
-    "overall": 8
-  },
-  {
-    "TeamName": "Wood",
-    "PlayerName": "Adam Schenk",
+    "TeamName": "Fore-play",
+    "PlayerName": "Eric Cole",
     "r1": 1,
-    "r2": -1,
-    "r3": 0,
+    "r2": 0,
+    "r3": 9,
     "r4": 1,
-    "overall": 1
-  },
-  {
-    "TeamName": "Wood",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
-    "r2": 1,
-    "r3": 4,
-    "r4": -1,
-    "overall": 5
-  },
-  {
-    "TeamName": "Wood",
-    "PlayerName": "Will Zalatoris",
-    "r1": -2,
-    "r2": 5,
-    "r3": 0,
-    "r4": -1,
-    "overall": 2
+    "overall": 11
   },
   {
     "TeamName": "Fore-play",
-    "PlayerName": "Sahith Theegala",
-    "r1": 2,
+    "PlayerName": "Shane Lowry",
+    "r1": 1,
     "r2": 2,
-    "r3": 2,
-    "r4": 0,
-    "overall": 6
+    "r3": 3,
+    "r4": 2,
+    "overall": 8
   },
   {
     "TeamName": "Fore-play",
@@ -817,15 +826,6 @@
     "r3": -1,
     "r4": 0,
     "overall": -7
-  },
-  {
-    "TeamName": "Fore-play",
-    "PlayerName": "Xander Schauffele",
-    "r1": 0,
-    "r2": 0,
-    "r3": -2,
-    "r4": 0,
-    "overall": -2
   },
   {
     "TeamName": "Fore-play",
@@ -842,26 +842,17 @@
     "r1": -1,
     "r2": 1,
     "r3": 1,
-    "r4": 0,
-    "overall": 1
+    "r4": 2,
+    "overall": 3
   },
   {
     "TeamName": "Fore-play",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 7
-  },
-  {
-    "TeamName": "Fore-play",
-    "PlayerName": "Shane Lowry",
-    "r1": 1,
+    "PlayerName": "Sahith Theegala",
+    "r1": 2,
     "r2": 2,
-    "r3": 3,
-    "r4": 4,
-    "overall": 10
+    "r3": 2,
+    "r4": 1,
+    "overall": 7
   },
   {
     "TeamName": "Fore-play",
@@ -869,17 +860,26 @@
     "r1": -1,
     "r2": 4,
     "r3": 8,
-    "r4": 0,
-    "overall": 11
+    "r4": 1,
+    "overall": 12
   },
   {
     "TeamName": "Fore-play",
-    "PlayerName": "Eric Cole",
-    "r1": 1,
+    "PlayerName": "Xander Schauffele",
+    "r1": 0,
     "r2": 0,
-    "r3": 9,
-    "r4": 1,
-    "overall": 11
+    "r3": -2,
+    "r4": -1,
+    "overall": -3
+  },
+  {
+    "TeamName": "Fore-play",
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
+    "r3": 2,
+    "r4": -3,
+    "overall": 4
   },
   {
     "TeamName": "Fore-play",
@@ -892,45 +892,36 @@
   },
   {
     "TeamName": "Double Bogey Doug!",
-    "PlayerName": "Lee Hodges",
-    "r1": 2,
-    "r2": 5,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
+    "PlayerName": "Brooks Koepka",
+    "r1": 1,
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "Double Bogey Doug!",
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
+    "r2": 0,
+    "r3": -1,
+    "r4": 0,
+    "overall": -7
+  },
+  {
+    "TeamName": "Double Bogey Doug!",
+    "PlayerName": "Cameron Young",
+    "r1": -2,
+    "r2": 1,
+    "r3": 0,
+    "r4": 0,
+    "overall": -1
   },
   {
     "TeamName": "Double Bogey Doug!",
     "PlayerName": "Wyndham Clark",
     "r1": 1,
     "r2": 6,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Double Bogey Doug!",
-    "PlayerName": "Corey Conners",
-    "r1": -2,
-    "r2": 4,
-    "r3": 4,
-    "r4": -1,
-    "overall": 5
-  },
-  {
-    "TeamName": "Double Bogey Doug!",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 7
-  },
-  {
-    "TeamName": "Double Bogey Doug!",
-    "PlayerName": "Sergio Garcia",
-    "r1": 0,
-    "r2": 7,
     "r3": 99,
     "r4": 99,
     "overall": 99
@@ -946,30 +937,39 @@
   },
   {
     "TeamName": "Double Bogey Doug!",
-    "PlayerName": "Cameron Young",
+    "PlayerName": "Sergio Garcia",
+    "r1": 0,
+    "r2": 7,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Double Bogey Doug!",
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
+    "r3": 2,
+    "r4": -3,
+    "overall": 4
+  },
+  {
+    "TeamName": "Double Bogey Doug!",
+    "PlayerName": "Lee Hodges",
+    "r1": 2,
+    "r2": 5,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Double Bogey Doug!",
+    "PlayerName": "Corey Conners",
     "r1": -2,
-    "r2": 1,
-    "r3": 0,
-    "r4": 0,
-    "overall": -1
-  },
-  {
-    "TeamName": "Double Bogey Doug!",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
-    "r2": 1,
+    "r2": 4,
     "r3": 4,
-    "r4": -1,
-    "overall": 5
-  },
-  {
-    "TeamName": "Double Bogey Doug!",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
-    "r3": -1,
-    "r4": 0,
-    "overall": -7
+    "r4": 1,
+    "overall": 7
   },
   {
     "TeamName": "Double Bogey Doug!",
@@ -977,17 +977,8 @@
     "r1": 1,
     "r2": 2,
     "r3": 3,
-    "r4": 4,
-    "overall": 10
-  },
-  {
-    "TeamName": "Stephen Koch’s Team",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
-    "r3": -1,
-    "r4": 0,
-    "overall": -7
+    "r4": 2,
+    "overall": 8
   },
   {
     "TeamName": "Stephen Koch’s Team",
@@ -995,8 +986,8 @@
     "r1": -1,
     "r2": 5,
     "r3": -1,
-    "r4": 1,
-    "overall": 4
+    "r4": 0,
+    "overall": 3
   },
   {
     "TeamName": "Stephen Koch’s Team",
@@ -1006,15 +997,6 @@
     "r3": -3,
     "r4": 0,
     "overall": -6
-  },
-  {
-    "TeamName": "Stephen Koch’s Team",
-    "PlayerName": "Tiger Woods",
-    "r1": 1,
-    "r2": 0,
-    "r3": 10,
-    "r4": 5,
-    "overall": 16
   },
   {
     "TeamName": "Stephen Koch’s Team",
@@ -1036,12 +1018,12 @@
   },
   {
     "TeamName": "Stephen Koch’s Team",
-    "PlayerName": "Viktor Hovland",
-    "r1": -1,
-    "r2": 9,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
+    "r2": 0,
+    "r3": -1,
+    "r4": 0,
+    "overall": -7
   },
   {
     "TeamName": "Stephen Koch’s Team",
@@ -1054,12 +1036,21 @@
   },
   {
     "TeamName": "Stephen Koch’s Team",
-    "PlayerName": "Tom Kim",
-    "r1": 0,
-    "r2": 6,
-    "r3": 5,
-    "r4": -7,
-    "overall": 4
+    "PlayerName": "Viktor Hovland",
+    "r1": -1,
+    "r2": 9,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Stephen Koch’s Team",
+    "PlayerName": "Tiger Woods",
+    "r1": 1,
+    "r2": 0,
+    "r3": 10,
+    "r4": 5,
+    "overall": 16
   },
   {
     "TeamName": "Stephen Koch’s Team",
@@ -1067,44 +1058,35 @@
     "r1": -1,
     "r2": 4,
     "r3": 6,
-    "r4": 5,
-    "overall": 14
+    "r4": 4,
+    "overall": 13
+  },
+  {
+    "TeamName": "Stephen Koch’s Team",
+    "PlayerName": "Tom Kim",
+    "r1": 0,
+    "r2": 6,
+    "r3": 5,
+    "r4": -6,
+    "overall": 5
   },
   {
     "TeamName": "Ross Goldberg",
-    "PlayerName": "Adam Schenk",
-    "r1": 1,
+    "PlayerName": "Tommy Fleetwood",
+    "r1": 0,
     "r2": -1,
     "r3": 0,
-    "r4": 1,
-    "overall": 1
-  },
-  {
-    "TeamName": "Ross Goldberg",
-    "PlayerName": "Cameron Young",
-    "r1": -2,
-    "r2": 1,
-    "r3": 0,
-    "r4": 0,
-    "overall": -1
-  },
-  {
-    "TeamName": "Ross Goldberg",
-    "PlayerName": "Shane Lowry",
-    "r1": 1,
-    "r2": 2,
-    "r3": 3,
-    "r4": 4,
-    "overall": 10
-  },
-  {
-    "TeamName": "Ross Goldberg",
-    "PlayerName": "Xander Schauffele",
-    "r1": 0,
-    "r2": 0,
-    "r3": -2,
-    "r4": 0,
+    "r4": -1,
     "overall": -2
+  },
+  {
+    "TeamName": "Ross Goldberg",
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
+    "r3": 2,
+    "r4": -3,
+    "overall": 4
   },
   {
     "TeamName": "Ross Goldberg",
@@ -1117,12 +1099,30 @@
   },
   {
     "TeamName": "Ross Goldberg",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
-    "r3": -1,
+    "PlayerName": "Shane Lowry",
+    "r1": 1,
+    "r2": 2,
+    "r3": 3,
+    "r4": 2,
+    "overall": 8
+  },
+  {
+    "TeamName": "Ross Goldberg",
+    "PlayerName": "Si Woo Kim",
+    "r1": 2,
+    "r2": 4,
+    "r3": 1,
+    "r4": -2,
+    "overall": 5
+  },
+  {
+    "TeamName": "Ross Goldberg",
+    "PlayerName": "Adam Schenk",
+    "r1": 1,
+    "r2": -1,
+    "r3": 0,
     "r4": 0,
-    "overall": -7
+    "overall": 0
   },
   {
     "TeamName": "Ross Goldberg",
@@ -1135,57 +1135,30 @@
   },
   {
     "TeamName": "Ross Goldberg",
-    "PlayerName": "Tommy Fleetwood",
-    "r1": 0,
-    "r2": -1,
+    "PlayerName": "Cameron Young",
+    "r1": -2,
+    "r2": 1,
     "r3": 0,
     "r4": 0,
     "overall": -1
   },
   {
     "TeamName": "Ross Goldberg",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
+    "r2": 0,
+    "r3": -1,
     "r4": 0,
-    "overall": 7
+    "overall": -7
   },
   {
     "TeamName": "Ross Goldberg",
-    "PlayerName": "Si Woo Kim",
-    "r1": 2,
-    "r2": 4,
-    "r3": 1,
-    "r4": -3,
-    "overall": 4
-  },
-  {
-    "TeamName": "The Homasexuals",
-    "PlayerName": "Tom Kim",
+    "PlayerName": "Xander Schauffele",
     "r1": 0,
-    "r2": 6,
-    "r3": 5,
-    "r4": -7,
-    "overall": 4
-  },
-  {
-    "TeamName": "The Homasexuals",
-    "PlayerName": "Matt Fitzpatrick",
-    "r1": -1,
-    "r2": 1,
-    "r3": 1,
-    "r4": 0,
-    "overall": 1
-  },
-  {
-    "TeamName": "The Homasexuals",
-    "PlayerName": "Jon Rahm",
-    "r1": 1,
-    "r2": 4,
-    "r3": 0,
-    "r4": -2,
-    "overall": 3
+    "r2": 0,
+    "r3": -2,
+    "r4": -1,
+    "overall": -3
   },
   {
     "TeamName": "The Homasexuals",
@@ -1193,35 +1166,26 @@
     "r1": -1,
     "r2": 7,
     "r3": 5,
-    "r4": 2,
-    "overall": 13
+    "r4": 3,
+    "overall": 14
   },
   {
     "TeamName": "The Homasexuals",
-    "PlayerName": "Collin Morikawa",
-    "r1": -1,
-    "r2": -2,
-    "r3": -3,
-    "r4": 0,
-    "overall": -6
-  },
-  {
-    "TeamName": "The Homasexuals",
-    "PlayerName": "Max Homa",
-    "r1": -5,
-    "r2": -1,
-    "r3": 1,
-    "r4": 0,
-    "overall": -5
-  },
-  {
-    "TeamName": "The Homasexuals",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
-    "r2": 1,
-    "r3": 4,
-    "r4": -1,
+    "PlayerName": "Tom Kim",
+    "r1": 0,
+    "r2": 6,
+    "r3": 5,
+    "r4": -6,
     "overall": 5
+  },
+  {
+    "TeamName": "The Homasexuals",
+    "PlayerName": "Matt Fitzpatrick",
+    "r1": -1,
+    "r2": 1,
+    "r3": 1,
+    "r4": 2,
+    "overall": 3
   },
   {
     "TeamName": "The Homasexuals",
@@ -1231,6 +1195,42 @@
     "r3": 6,
     "r4": -2,
     "overall": 10
+  },
+  {
+    "TeamName": "The Homasexuals",
+    "PlayerName": "Jon Rahm",
+    "r1": 1,
+    "r2": 4,
+    "r3": 0,
+    "r4": 2,
+    "overall": 7
+  },
+  {
+    "TeamName": "The Homasexuals",
+    "PlayerName": "Brooks Koepka",
+    "r1": 1,
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "The Homasexuals",
+    "PlayerName": "Max Homa",
+    "r1": -5,
+    "r2": -1,
+    "r3": 1,
+    "r4": -1,
+    "overall": -6
+  },
+  {
+    "TeamName": "The Homasexuals",
+    "PlayerName": "Collin Morikawa",
+    "r1": -1,
+    "r2": -2,
+    "r3": -3,
+    "r4": 0,
+    "overall": -6
   },
   {
     "TeamName": "The Homasexuals",
@@ -1247,26 +1247,8 @@
     "r1": -1,
     "r2": 4,
     "r3": 6,
-    "r4": 5,
-    "overall": 14
-  },
-  {
-    "TeamName": "Long Sean Daly",
-    "PlayerName": "Cameron Young",
-    "r1": -2,
-    "r2": 1,
-    "r3": 0,
-    "r4": 0,
-    "overall": -1
-  },
-  {
-    "TeamName": "Long Sean Daly",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
-    "r3": -1,
-    "r4": 0,
-    "overall": -7
+    "r4": 4,
+    "overall": 13
   },
   {
     "TeamName": "Long Sean Daly",
@@ -1279,12 +1261,30 @@
   },
   {
     "TeamName": "Long Sean Daly",
-    "PlayerName": "Shane Lowry",
-    "r1": 1,
-    "r2": 2,
-    "r3": 3,
-    "r4": 4,
-    "overall": 10
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
+    "r2": 0,
+    "r3": -1,
+    "r4": 0,
+    "overall": -7
+  },
+  {
+    "TeamName": "Long Sean Daly",
+    "PlayerName": "Cameron Smith",
+    "r1": -1,
+    "r2": 0,
+    "r3": 0,
+    "r4": -1,
+    "overall": -2
+  },
+  {
+    "TeamName": "Long Sean Daly",
+    "PlayerName": "Cameron Young",
+    "r1": -2,
+    "r2": 1,
+    "r3": 0,
+    "r4": 0,
+    "overall": -1
   },
   {
     "TeamName": "Long Sean Daly",
@@ -1297,12 +1297,30 @@
   },
   {
     "TeamName": "Long Sean Daly",
-    "PlayerName": "Peter Malnati",
-    "r1": 10,
-    "r2": 0,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
+    "PlayerName": "Jon Rahm",
+    "r1": 1,
+    "r2": 4,
+    "r3": 0,
+    "r4": 2,
+    "overall": 7
+  },
+  {
+    "TeamName": "Long Sean Daly",
+    "PlayerName": "Shane Lowry",
+    "r1": 1,
+    "r2": 2,
+    "r3": 3,
+    "r4": 2,
+    "overall": 8
+  },
+  {
+    "TeamName": "Long Sean Daly",
+    "PlayerName": "Denny McCarthy",
+    "r1": 2,
+    "r2": 2,
+    "r3": 7,
+    "r4": -2,
+    "overall": 9
   },
   {
     "TeamName": "Long Sean Daly",
@@ -1315,30 +1333,48 @@
   },
   {
     "TeamName": "Long Sean Daly",
-    "PlayerName": "Denny McCarthy",
-    "r1": 2,
-    "r2": 2,
-    "r3": 7,
-    "r4": -3,
-    "overall": 8
+    "PlayerName": "Peter Malnati",
+    "r1": 10,
+    "r2": 0,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
   },
   {
-    "TeamName": "Long Sean Daly",
-    "PlayerName": "Cameron Smith",
+    "TeamName": "PJ ",
+    "PlayerName": "Lucas Glover",
     "r1": -1,
-    "r2": 0,
+    "r2": 1,
     "r3": 0,
-    "r4": 0,
+    "r4": -1,
     "overall": -1
   },
   {
-    "TeamName": "Long Sean Daly",
-    "PlayerName": "Jon Rahm",
+    "TeamName": "PJ ",
+    "PlayerName": "Brooks Koepka",
     "r1": 1,
-    "r2": 4,
-    "r3": 0,
-    "r4": -2,
-    "overall": 3
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "PJ ",
+    "PlayerName": "Max Homa",
+    "r1": -5,
+    "r2": -1,
+    "r3": 1,
+    "r4": -1,
+    "overall": -6
+  },
+  {
+    "TeamName": "PJ ",
+    "PlayerName": "Tiger Woods",
+    "r1": 1,
+    "r2": 0,
+    "r3": 10,
+    "r4": 5,
+    "overall": 16
   },
   {
     "TeamName": "PJ ",
@@ -1364,17 +1400,8 @@
     "r1": -1,
     "r2": 5,
     "r3": -1,
-    "r4": 1,
-    "overall": 4
-  },
-  {
-    "TeamName": "PJ ",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
-    "r2": 1,
-    "r3": 4,
-    "r4": -1,
-    "overall": 5
+    "r4": 0,
+    "overall": 3
   },
   {
     "TeamName": "PJ ",
@@ -1387,33 +1414,6 @@
   },
   {
     "TeamName": "PJ ",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 7
-  },
-  {
-    "TeamName": "PJ ",
-    "PlayerName": "Max Homa",
-    "r1": -5,
-    "r2": -1,
-    "r3": 1,
-    "r4": 0,
-    "overall": -5
-  },
-  {
-    "TeamName": "PJ ",
-    "PlayerName": "Lucas Glover",
-    "r1": -1,
-    "r2": 1,
-    "r3": 0,
-    "r4": 0,
-    "overall": 0
-  },
-  {
-    "TeamName": "PJ ",
     "PlayerName": "Wyndham Clark",
     "r1": 1,
     "r2": 6,
@@ -1423,84 +1423,12 @@
   },
   {
     "TeamName": "PJ ",
-    "PlayerName": "Tiger Woods",
-    "r1": 1,
-    "r2": 0,
-    "r3": 10,
-    "r4": 5,
-    "overall": 16
-  },
-  {
-    "TeamName": "Chris G",
-    "PlayerName": "Sungjae Im",
-    "r1": 5,
-    "r2": 2,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Chris G",
-    "PlayerName": "Jon Rahm",
-    "r1": 1,
-    "r2": 4,
-    "r3": 0,
-    "r4": -2,
-    "overall": 3
-  },
-  {
-    "TeamName": "Chris G",
-    "PlayerName": "Nicolai Højgaard",
-    "r1": -5,
-    "r2": 1,
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
     "r3": 2,
-    "r4": 0,
-    "overall": -2
-  },
-  {
-    "TeamName": "Chris G",
-    "PlayerName": "Xander Schauffele",
-    "r1": 0,
-    "r2": 0,
-    "r3": -2,
-    "r4": 0,
-    "overall": -2
-  },
-  {
-    "TeamName": "Chris G",
-    "PlayerName": "Mike Weir",
-    "r1": 2,
-    "r2": 5,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Chris G",
-    "PlayerName": "Cameron Davis",
-    "r1": -3,
-    "r2": 0,
-    "r3": 1,
-    "r4": 0,
-    "overall": -2
-  },
-  {
-    "TeamName": "Chris G",
-    "PlayerName": "Min Woo Lee",
-    "r1": 2,
-    "r2": 2,
-    "r3": 3,
-    "r4": -1,
-    "overall": 6
-  },
-  {
-    "TeamName": "Chris G",
-    "PlayerName": "Ludvig Åberg",
-    "r1": 1,
-    "r2": -3,
-    "r3": -2,
-    "r4": 0,
-    "overall": -4
+    "r4": -3,
+    "overall": 4
   },
   {
     "TeamName": "Chris G",
@@ -1517,8 +1445,125 @@
     "r1": -1,
     "r2": 7,
     "r3": 5,
+    "r4": 3,
+    "overall": 14
+  },
+  {
+    "TeamName": "Chris G",
+    "PlayerName": "Min Woo Lee",
+    "r1": 2,
+    "r2": 2,
+    "r3": 3,
+    "r4": -3,
+    "overall": 4
+  },
+  {
+    "TeamName": "Chris G",
+    "PlayerName": "Ludvig Åberg",
+    "r1": 1,
+    "r2": -3,
+    "r3": -2,
+    "r4": -1,
+    "overall": -5
+  },
+  {
+    "TeamName": "Chris G",
+    "PlayerName": "Xander Schauffele",
+    "r1": 0,
+    "r2": 0,
+    "r3": -2,
+    "r4": -1,
+    "overall": -3
+  },
+  {
+    "TeamName": "Chris G",
+    "PlayerName": "Nicolai Højgaard",
+    "r1": -5,
+    "r2": 1,
+    "r3": 2,
+    "r4": 1,
+    "overall": -1
+  },
+  {
+    "TeamName": "Chris G",
+    "PlayerName": "Mike Weir",
+    "r1": 2,
+    "r2": 5,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Chris G",
+    "PlayerName": "Jon Rahm",
+    "r1": 1,
+    "r2": 4,
+    "r3": 0,
     "r4": 2,
-    "overall": 13
+    "overall": 7
+  },
+  {
+    "TeamName": "Chris G",
+    "PlayerName": "Cameron Davis",
+    "r1": -3,
+    "r2": 0,
+    "r3": 1,
+    "r4": 2,
+    "overall": 0
+  },
+  {
+    "TeamName": "Chris G",
+    "PlayerName": "Sungjae Im",
+    "r1": 5,
+    "r2": 2,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Team Kemp",
+    "PlayerName": "Justin Rose",
+    "r1": 1,
+    "r2": 6,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "Team Kemp",
+    "PlayerName": "Russell Henley",
+    "r1": 1,
+    "r2": 5,
+    "r3": 2,
+    "r4": -1,
+    "overall": 7
+  },
+  {
+    "TeamName": "Team Kemp",
+    "PlayerName": "Eric Cole",
+    "r1": 1,
+    "r2": 0,
+    "r3": 9,
+    "r4": 1,
+    "overall": 11
+  },
+  {
+    "TeamName": "Team Kemp",
+    "PlayerName": "Jason Day",
+    "r1": 3,
+    "r2": 1,
+    "r3": 4,
+    "r4": -3,
+    "overall": 5
+  },
+  {
+    "TeamName": "Team Kemp",
+    "PlayerName": "Will Zalatoris",
+    "r1": -2,
+    "r2": 5,
+    "r3": 0,
+    "r4": -2,
+    "overall": 1
   },
   {
     "TeamName": "Team Kemp",
@@ -1540,30 +1585,12 @@
   },
   {
     "TeamName": "Team Kemp",
-    "PlayerName": "Eric Cole",
-    "r1": 1,
+    "PlayerName": "Xander Schauffele",
+    "r1": 0,
     "r2": 0,
-    "r3": 9,
-    "r4": 1,
-    "overall": 11
-  },
-  {
-    "TeamName": "Team Kemp",
-    "PlayerName": "Jason Day",
-    "r1": 3,
-    "r2": 1,
-    "r3": 4,
+    "r3": -2,
     "r4": -1,
-    "overall": 7
-  },
-  {
-    "TeamName": "Team Kemp",
-    "PlayerName": "Russell Henley",
-    "r1": 1,
-    "r2": 5,
-    "r3": 2,
-    "r4": -1,
-    "overall": 7
+    "overall": -3
   },
   {
     "TeamName": "Team Kemp",
@@ -1575,49 +1602,13 @@
     "overall": -7
   },
   {
-    "TeamName": "Team Kemp",
-    "PlayerName": "Will Zalatoris",
-    "r1": -2,
-    "r2": 5,
-    "r3": 0,
-    "r4": -1,
-    "overall": 2
-  },
-  {
-    "TeamName": "Team Kemp",
-    "PlayerName": "Justin Rose",
-    "r1": 1,
-    "r2": 6,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Team Kemp",
-    "PlayerName": "Xander Schauffele",
-    "r1": 0,
+    "TeamName": "Chriskelly! ",
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
     "r2": 0,
-    "r3": -2,
+    "r3": -1,
     "r4": 0,
-    "overall": -2
-  },
-  {
-    "TeamName": "Chriskelly! ",
-    "PlayerName": "Tommy Fleetwood",
-    "r1": 0,
-    "r2": -1,
-    "r3": 0,
-    "r4": 0,
-    "overall": -1
-  },
-  {
-    "TeamName": "Chriskelly! ",
-    "PlayerName": "Ludvig Åberg",
-    "r1": 1,
-    "r2": -3,
-    "r3": -2,
-    "r4": 0,
-    "overall": -4
+    "overall": -7
   },
   {
     "TeamName": "Chriskelly! ",
@@ -1625,17 +1616,17 @@
     "r1": -3,
     "r2": 0,
     "r3": 1,
-    "r4": 0,
-    "overall": -2
+    "r4": 2,
+    "overall": 0
   },
   {
     "TeamName": "Chriskelly! ",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 7
+    "PlayerName": "Brooks Koepka",
+    "r1": 1,
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
   },
   {
     "TeamName": "Chriskelly! ",
@@ -1643,8 +1634,35 @@
     "r1": 2,
     "r2": 2,
     "r3": 7,
+    "r4": -2,
+    "overall": 9
+  },
+  {
+    "TeamName": "Chriskelly! ",
+    "PlayerName": "Tommy Fleetwood",
+    "r1": 0,
+    "r2": -1,
+    "r3": 0,
+    "r4": -1,
+    "overall": -2
+  },
+  {
+    "TeamName": "Chriskelly! ",
+    "PlayerName": "Sahith Theegala",
+    "r1": 2,
+    "r2": 2,
+    "r3": 2,
+    "r4": 1,
+    "overall": 7
+  },
+  {
+    "TeamName": "Chriskelly! ",
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
+    "r3": 2,
     "r4": -3,
-    "overall": 8
+    "overall": 4
   },
   {
     "TeamName": "Chriskelly! ",
@@ -1657,6 +1675,15 @@
   },
   {
     "TeamName": "Chriskelly! ",
+    "PlayerName": "Ludvig Åberg",
+    "r1": 1,
+    "r2": -3,
+    "r3": -2,
+    "r4": -1,
+    "overall": -5
+  },
+  {
+    "TeamName": "Chriskelly! ",
     "PlayerName": "Christo Lamprecht",
     "r1": 2,
     "r2": 6,
@@ -1665,76 +1692,13 @@
     "overall": 99
   },
   {
-    "TeamName": "Chriskelly! ",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
-    "r2": 1,
-    "r3": 4,
-    "r4": -1,
-    "overall": 5
-  },
-  {
-    "TeamName": "Chriskelly! ",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
-    "r3": -1,
-    "r4": 0,
-    "overall": -7
-  },
-  {
-    "TeamName": "Chriskelly! ",
-    "PlayerName": "Sahith Theegala",
-    "r1": 2,
-    "r2": 2,
-    "r3": 2,
-    "r4": 0,
-    "overall": 6
-  },
-  {
-    "TeamName": "Horvy’s Heroes",
-    "PlayerName": "Ludvig Åberg",
-    "r1": 1,
-    "r2": -3,
-    "r3": -2,
-    "r4": 0,
-    "overall": -4
-  },
-  {
-    "TeamName": "Horvy’s Heroes",
-    "PlayerName": "Rory McIlroy",
-    "r1": -1,
-    "r2": 5,
-    "r3": -1,
-    "r4": 1,
-    "overall": 4
-  },
-  {
     "TeamName": "Horvy’s Heroes",
     "PlayerName": "Chris Kirk",
     "r1": 2,
     "r2": 3,
     "r3": -4,
-    "r4": 0,
-    "overall": 1
-  },
-  {
-    "TeamName": "Horvy’s Heroes",
-    "PlayerName": "Adam Schenk",
-    "r1": 1,
-    "r2": -1,
-    "r3": 0,
     "r4": 1,
-    "overall": 1
-  },
-  {
-    "TeamName": "Horvy’s Heroes",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 7
+    "overall": 2
   },
   {
     "TeamName": "Horvy’s Heroes",
@@ -1747,12 +1711,48 @@
   },
   {
     "TeamName": "Horvy’s Heroes",
-    "PlayerName": "Rickie Fowler",
-    "r1": 4,
-    "r2": 2,
+    "PlayerName": "Adam Schenk",
+    "r1": 1,
+    "r2": -1,
+    "r3": 0,
+    "r4": 0,
+    "overall": 0
+  },
+  {
+    "TeamName": "Horvy’s Heroes",
+    "PlayerName": "Ludvig Åberg",
+    "r1": 1,
+    "r2": -3,
+    "r3": -2,
+    "r4": -1,
+    "overall": -5
+  },
+  {
+    "TeamName": "Horvy’s Heroes",
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
+    "r3": 2,
+    "r4": -3,
+    "overall": 4
+  },
+  {
+    "TeamName": "Horvy’s Heroes",
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
+    "r2": 0,
     "r3": -1,
     "r4": 0,
-    "overall": 5
+    "overall": -7
+  },
+  {
+    "TeamName": "Horvy’s Heroes",
+    "PlayerName": "Rory McIlroy",
+    "r1": -1,
+    "r2": 5,
+    "r3": -1,
+    "r4": 0,
+    "overall": 3
   },
   {
     "TeamName": "Horvy’s Heroes",
@@ -1774,39 +1774,30 @@
   },
   {
     "TeamName": "Horvy’s Heroes",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
+    "PlayerName": "Rickie Fowler",
+    "r1": 4,
+    "r2": 2,
     "r3": -1,
-    "r4": 0,
-    "overall": -7
+    "r4": -1,
+    "overall": 4
   },
   {
     "TeamName": "towen115",
-    "PlayerName": "Phil Mickelson",
+    "PlayerName": "Brooks Koepka",
     "r1": 1,
-    "r2": 3,
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "towen115",
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
     "r3": 2,
-    "r4": 2,
-    "overall": 8
-  },
-  {
-    "TeamName": "towen115",
-    "PlayerName": "Brian Harman",
-    "r1": 9,
-    "r2": 0,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "towen115",
-    "PlayerName": "Scottie Scheffler",
-    "r1": -6,
-    "r2": 0,
-    "r3": -1,
-    "r4": 0,
-    "overall": -7
+    "r4": -3,
+    "overall": 4
   },
   {
     "TeamName": "towen115",
@@ -1819,12 +1810,39 @@
   },
   {
     "TeamName": "towen115",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
+    "PlayerName": "Matt Fitzpatrick",
+    "r1": -1,
     "r2": 1,
-    "r3": 4,
-    "r4": -1,
-    "overall": 5
+    "r3": 1,
+    "r4": 2,
+    "overall": 3
+  },
+  {
+    "TeamName": "towen115",
+    "PlayerName": "Scottie Scheffler",
+    "r1": -6,
+    "r2": 0,
+    "r3": -1,
+    "r4": 0,
+    "overall": -7
+  },
+  {
+    "TeamName": "towen115",
+    "PlayerName": "Peter Malnati",
+    "r1": 10,
+    "r2": 0,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
+  },
+  {
+    "TeamName": "towen115",
+    "PlayerName": "Phil Mickelson",
+    "r1": 1,
+    "r2": 3,
+    "r3": 2,
+    "r4": 2,
+    "overall": 8
   },
   {
     "TeamName": "towen115",
@@ -1846,66 +1864,12 @@
   },
   {
     "TeamName": "towen115",
-    "PlayerName": "Matt Fitzpatrick",
-    "r1": -1,
-    "r2": 1,
-    "r3": 1,
-    "r4": 0,
-    "overall": 1
-  },
-  {
-    "TeamName": "towen115",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 7
-  },
-  {
-    "TeamName": "towen115",
-    "PlayerName": "Peter Malnati",
-    "r1": 10,
+    "PlayerName": "Brian Harman",
+    "r1": 9,
     "r2": 0,
     "r3": 99,
     "r4": 99,
     "overall": 99
-  },
-  {
-    "TeamName": "Louis the cat",
-    "PlayerName": "Keegan Bradley",
-    "r1": 6,
-    "r2": -1,
-    "r3": 2,
-    "r4": 0,
-    "overall": 7
-  },
-  {
-    "TeamName": "Louis the cat",
-    "PlayerName": "Erik van Rooyen",
-    "r1": -1,
-    "r2": 4,
-    "r3": 6,
-    "r4": 5,
-    "overall": 14
-  },
-  {
-    "TeamName": "Louis the cat",
-    "PlayerName": "Neal Shipley",
-    "r1": -1,
-    "r2": 4,
-    "r3": 8,
-    "r4": 0,
-    "overall": 11
-  },
-  {
-    "TeamName": "Louis the cat",
-    "PlayerName": "Shane Lowry",
-    "r1": 1,
-    "r2": 2,
-    "r3": 3,
-    "r4": 4,
-    "overall": 10
   },
   {
     "TeamName": "Louis the cat",
@@ -1922,8 +1886,26 @@
     "r1": -1,
     "r2": 1,
     "r3": 1,
-    "r4": 0,
-    "overall": 1
+    "r4": 2,
+    "overall": 3
+  },
+  {
+    "TeamName": "Louis the cat",
+    "PlayerName": "Neal Shipley",
+    "r1": -1,
+    "r2": 4,
+    "r3": 8,
+    "r4": 1,
+    "overall": 12
+  },
+  {
+    "TeamName": "Louis the cat",
+    "PlayerName": "Sergio Garcia",
+    "r1": 0,
+    "r2": 7,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
   },
   {
     "TeamName": "Louis the cat",
@@ -1936,57 +1918,57 @@
   },
   {
     "TeamName": "Louis the cat",
+    "PlayerName": "Brooks Koepka",
+    "r1": 1,
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "Louis the cat",
+    "PlayerName": "Shane Lowry",
+    "r1": 1,
+    "r2": 2,
+    "r3": 3,
+    "r4": 2,
+    "overall": 8
+  },
+  {
+    "TeamName": "Louis the cat",
     "PlayerName": "Min Woo Lee",
     "r1": 2,
     "r2": 2,
     "r3": 3,
-    "r4": -1,
-    "overall": 6
+    "r4": -3,
+    "overall": 4
   },
   {
     "TeamName": "Louis the cat",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
-    "r2": 1,
-    "r3": 4,
-    "r4": -1,
-    "overall": 5
+    "PlayerName": "Erik van Rooyen",
+    "r1": -1,
+    "r2": 4,
+    "r3": 6,
+    "r4": 4,
+    "overall": 13
   },
   {
     "TeamName": "Louis the cat",
-    "PlayerName": "Sergio Garcia",
-    "r1": 0,
-    "r2": 7,
+    "PlayerName": "Keegan Bradley",
+    "r1": 6,
+    "r2": -1,
+    "r3": 2,
+    "r4": -3,
+    "overall": 4
+  },
+  {
+    "TeamName": "Dave D",
+    "PlayerName": "Zach Johnson",
+    "r1": 4,
+    "r2": 3,
     "r3": 99,
     "r4": 99,
     "overall": 99
-  },
-  {
-    "TeamName": "Dave D",
-    "PlayerName": "Patrick Cantlay",
-    "r1": -1,
-    "r2": 3,
-    "r3": -2,
-    "r4": 0,
-    "overall": 0
-  },
-  {
-    "TeamName": "Dave D",
-    "PlayerName": "Cameron Young",
-    "r1": -2,
-    "r2": 1,
-    "r3": 0,
-    "r4": 0,
-    "overall": -1
-  },
-  {
-    "TeamName": "Dave D",
-    "PlayerName": "Brooks Koepka",
-    "r1": 1,
-    "r2": 1,
-    "r3": 4,
-    "r4": -1,
-    "overall": 5
   },
   {
     "TeamName": "Dave D",
@@ -2003,17 +1985,44 @@
     "r1": 0,
     "r2": 0,
     "r3": -2,
-    "r4": 0,
-    "overall": -2
+    "r4": -1,
+    "overall": -3
   },
   {
     "TeamName": "Dave D",
-    "PlayerName": "Zach Johnson",
-    "r1": 4,
+    "PlayerName": "Brooks Koepka",
+    "r1": 1,
+    "r2": 1,
+    "r3": 4,
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "Dave D",
+    "PlayerName": "Jason Day",
+    "r1": 3,
+    "r2": 1,
+    "r3": 4,
+    "r4": -3,
+    "overall": 5
+  },
+  {
+    "TeamName": "Dave D",
+    "PlayerName": "Patrick Cantlay",
+    "r1": -1,
     "r2": 3,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
+    "r3": -2,
+    "r4": 0,
+    "overall": 0
+  },
+  {
+    "TeamName": "Dave D",
+    "PlayerName": "Lucas Glover",
+    "r1": -1,
+    "r2": 1,
+    "r3": 0,
+    "r4": -1,
+    "overall": -1
   },
   {
     "TeamName": "Dave D",
@@ -2026,12 +2035,12 @@
   },
   {
     "TeamName": "Dave D",
-    "PlayerName": "Lucas Glover",
-    "r1": -1,
+    "PlayerName": "Cameron Young",
+    "r1": -2,
     "r2": 1,
     "r3": 0,
     "r4": 0,
-    "overall": 0
+    "overall": -1
   },
   {
     "TeamName": "Dave D",
@@ -2039,35 +2048,17 @@
     "r1": 2,
     "r2": 2,
     "r3": 7,
-    "r4": -3,
-    "overall": 8
+    "r4": -2,
+    "overall": 9
   },
   {
-    "TeamName": "Dave D",
-    "PlayerName": "Jason Day",
-    "r1": 3,
-    "r2": 1,
-    "r3": 4,
+    "TeamName": "Craps",
+    "PlayerName": "Cameron Smith",
+    "r1": -1,
+    "r2": 0,
+    "r3": 0,
     "r4": -1,
-    "overall": 7
-  },
-  {
-    "TeamName": "Craps",
-    "PlayerName": "Stewart Hagestad",
-    "r1": 2,
-    "r2": 6,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Craps",
-    "PlayerName": "Rickie Fowler",
-    "r1": 4,
-    "r2": 2,
-    "r3": -1,
-    "r4": 0,
-    "overall": 5
+    "overall": -2
   },
   {
     "TeamName": "Craps",
@@ -2080,30 +2071,21 @@
   },
   {
     "TeamName": "Craps",
-    "PlayerName": "Sergio Garcia",
-    "r1": 0,
-    "r2": 7,
-    "r3": 99,
-    "r4": 99,
-    "overall": 99
-  },
-  {
-    "TeamName": "Craps",
-    "PlayerName": "Cameron Smith",
-    "r1": -1,
-    "r2": 0,
-    "r3": 0,
-    "r4": 0,
-    "overall": -1
-  },
-  {
-    "TeamName": "Craps",
     "PlayerName": "Brooks Koepka",
     "r1": 1,
     "r2": 1,
     "r3": 4,
-    "r4": -1,
-    "overall": 5
+    "r4": 3,
+    "overall": 9
+  },
+  {
+    "TeamName": "Craps",
+    "PlayerName": "Jon Rahm",
+    "r1": 1,
+    "r2": 4,
+    "r3": 0,
+    "r4": 2,
+    "overall": 7
   },
   {
     "TeamName": "Craps",
@@ -2116,12 +2098,12 @@
   },
   {
     "TeamName": "Craps",
-    "PlayerName": "Jon Rahm",
-    "r1": 1,
-    "r2": 4,
-    "r3": 0,
-    "r4": -2,
-    "overall": 3
+    "PlayerName": "Sergio Garcia",
+    "r1": 0,
+    "r2": 7,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
   },
   {
     "TeamName": "Craps",
@@ -2138,7 +2120,25 @@
     "r1": 6,
     "r2": -1,
     "r3": 2,
-    "r4": 0,
-    "overall": 7
+    "r4": -3,
+    "overall": 4
+  },
+  {
+    "TeamName": "Craps",
+    "PlayerName": "Rickie Fowler",
+    "r1": 4,
+    "r2": 2,
+    "r3": -1,
+    "r4": -1,
+    "overall": 4
+  },
+  {
+    "TeamName": "Craps",
+    "PlayerName": "Stewart Hagestad",
+    "r1": 2,
+    "r2": 6,
+    "r3": 99,
+    "r4": 99,
+    "overall": 99
   }
 ]
